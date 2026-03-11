@@ -3,10 +3,7 @@ title: 'IDA Python 常用函数整理'
 description: 'IDA 8.x / IDAPython 常用 API 与示例脚本'
 pubDate: 2026-08-03
 category: 'Reverse'
-tags:
-  - ida
-  - idapython
-  - reverse
+tags:  ['idapython']
 ---
 以下是 **IDA 8.x / IDAPython 3.x（Python 3）** 中最常用的函数与对应模块整理，适用于 IDA 8.3 版本，涵盖：
 
