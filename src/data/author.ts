@@ -1,7 +1,7 @@
 import avatar from '../assets/images/holo.jpg';
 
 export const author = {
-  name: 'Site Author',
+  name: 'W0w1F',
   avatar,
   url: '#',
 };
