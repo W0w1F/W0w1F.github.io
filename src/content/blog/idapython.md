@@ -1,3 +1,11 @@
+---
+title: 'Example Post Nine'
+description: 'Final sample post using example hero images.'
+pubDate: 'Aug 03 2026'
+category: 'Showcase'
+tags: ['template']
+---
+
 以下是 **IDA 8.x / IDAPython 3.x（Python 3）** 中最常用的函数与对应模块整理，适用于 IDA 8.3 版本，涵盖：
 
 - 地址读取与写入
